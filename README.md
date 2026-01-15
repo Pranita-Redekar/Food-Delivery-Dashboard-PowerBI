@@ -1,7 +1,6 @@
 
 # 🧾 Food Delivery Dashboard | Power BI
-An interactive retail sales dashboard built in Excel to analyze region-wise, category-wise, and customer-wise performance, helping track sales trends, transactions, and quantity ordered for better business decisions.
-
+An interactive food delivery analytics dashboard built in Power BI to analyze food item–wise, customer membership–wise, payment method–wise, and time-based performance, helping track order quantity, transactions, delivery status, and sales trends for data-driven business decisions.
 
 
 ## 📌 Table of Contents
@@ -32,7 +31,7 @@ Without a centralized dashboard, analyzing this data becomes time-consuming and 
 
 
 <h2><a class="anchor" id="dataset">Dataset</a></h2>
-<a href="https://github.com/Pranita-Redekar/Superstore-Sales-Excel/blob/main/Superstore%20Data.xlsx">Dataset View</a>
+<a href="https://github.com/Pranita-Redekar/Food-Delivery-Dashboard-PowerBI/tree/main/Sales%20Data">View Dataset</a>
 
 
 <h2><a class="anchor" id="tools--technologies"></a>Tools & Technologies</h2>
@@ -46,21 +45,25 @@ Without a centralized dashboard, analyzing this data becomes time-consuming and 
 <h2><a class="anchor" id="dashboard"></a>Dashboard</h2>
 
 The dashboard includes:<br>
--KPI cards for total sales, average sales, transactions, and quantity<br>
--Ship mode-wise sales analysis<br>
--Region-wise transaction comparison<br>
--Monthly quantity ordered trend<br>
--Top 5 cities by sales<br>
--Category-wise and customer-type-wise performance<br>
-<a href="https://github.com/Pranita-Redekar/Superstore-Sales-Excel/blob/main/Dashboard.png" >Dashboard View </a>
+-KPI Cards: Display Total Quantity, Total Transactions, and Average Quantity.<br>
+-Monthly Quantity Bar Chart: Shows total quantity ordered by month.<br>
+-Food Item Analysis Bar Chart: Highlights total quantity sold for each food item.<br>
+-Food Type vs Member Type Table: Compares transactions across food types and customer membership categories.<br>
+-Delivery Status Donut Chart: Visualizes the percentage of delivered and cancelled orders.<br>
+-Payment Method Bar Chart: Shows transaction distribution across UPI, COD, and Card payments.<br>
+-Year and Month Line Chart: Displays transaction trends over time.<br>
+-Filter Panel: Allows filtering by month, member type, payment method, and restaurant for interactive analysis.<br>
+<a href="https://github.com/Pranita-Redekar/Food-Delivery-Dashboard-PowerBI/blob/main/Food%20Delivery%20Dashboard.png" > View Dashboard</a>
 
 
 <h2><a class="anchor" id="final-result"></a>Result</h2>
 
--Improved visibility of sales performance<br>
--Easy comparison across regions, cities, and categories<br>
--Clear understanding of monthly sales trends<br>
--Faster and more accurate decision-making<br>
+-The dashboard clearly identifies top-selling food items.<br>
+-Most transactions are completed successfully, with delivered orders forming a very high percentage compared to cancellations.<br>
+-UPI emerges as the most preferred payment method among customers.<br>
+-Monthly trends help identify peak demand periods, supporting inventory and staffing decisions.<br>
+-Gold members contribute significantly to transactions in certain food categories.<br>
+-Overall, the dashboard improves visibility into business performance and helps stakeholders make faster, more informed decisions using data visualization.
 
 
 <h2><a class="anchor" id="author--contact"></a>Author & Contact</h2>
