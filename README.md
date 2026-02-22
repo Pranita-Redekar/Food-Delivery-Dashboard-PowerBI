@@ -39,6 +39,7 @@ Without a centralized dashboard, analyzing this data becomes time-consuming and 
 -Power BI <br>
 -DAX (Data Analysis Expressions)<br>
 -Power Query<br>
+-Data Modeling<br>
 
 
 
