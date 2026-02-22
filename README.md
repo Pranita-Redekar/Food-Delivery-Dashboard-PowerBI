@@ -53,7 +53,7 @@ The dashboard includes:<br>
 -Payment Method Bar Chart: Shows transaction distribution across UPI, COD, and Card payments.<br>
 -Year and Month Line Chart: Displays transaction trends over time.<br>
 -Filter Panel: Allows filtering by month, member type, payment method, and restaurant for interactive analysis.<br>
-<a href="https://github.com/Pranita-Redekar/Food-Delivery-Dashboard-PowerBI/blob/main/Food%20Delivery%20Dashboard.png" > View Dashboard</a>
+<a href="https://github.com/Pranita-Redekar/Food-Delivery-Dashboard-PowerBI/tree/main/Dashboard" > View Dashboard</a>
 
 
 <h2><a class="anchor" id="final-result"></a>Result</h2>
