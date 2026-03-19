@@ -117,8 +117,8 @@ Line chart displaying transactions over months (Jan–Apr 2023).
 <hr>
 
 <h2><a class="anchor" id="dataset">Dataset</a></h2>
-<a href="https://github.com/Pranita-Redekar/Food-Delivery-Dashboard-PowerBI/tree/main/Sales%20Data">View Dataset</a>
-<a href="https://github.com/Pranita-Redekar/Food-Delivery-Dashboard-PowerBI/blob/main/Food%20Delivery_Data.xlsx">View Dataset</a>
+<a href="https://github.com/Pranita-Redekar/Food-Delivery-Dashboard-PowerBI/tree/main/Sales%20Data">View Dataset 1</a><br>
+<a href="https://github.com/Pranita-Redekar/Food-Delivery-Dashboard-PowerBI/blob/main/Food%20Delivery_Data.xlsx">View Dataset 2</a>
 
 
 <h2>📷 Dashboard Preview</h2>
